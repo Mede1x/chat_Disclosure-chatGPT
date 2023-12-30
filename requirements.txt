@@ -1,0 +1,5 @@
+argparse==1.4.0
+uuid==1.30
+urllib3==1.26.8
+requests==2.26.0
+colorama==0.4.4
