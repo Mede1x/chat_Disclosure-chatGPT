@@ -5,6 +5,7 @@ this a simple python script form searching others chat With ChatGPT
 ```
 git clone https://github.com/Mede1x/chat_Disclosure-chatGPT.git
 cd chat_Disclosure-chatGPT
+pip install -r requirements.txt
 python3 main.py
 ```
 
